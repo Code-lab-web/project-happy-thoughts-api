@@ -7,7 +7,7 @@
     "dev": "nodemon server.js --exec babel-node"
     "test": "jest"
   },
-  "author": "Johan Skarpsvärd",
+  "author": "Code-lab-web",
   "license": "",
   "dependencies": {
     "@babel/core": "^7.17.9",
