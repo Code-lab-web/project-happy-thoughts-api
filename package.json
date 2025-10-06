@@ -23,7 +23,7 @@
     "localforage": "^1.10.0",
     "match-sorter": "^8.1.0",
     "mongoose": "^8.18.1",
-    "netlify-cli": "^23.5.1",
+    "netlify-cli": "^23.9.1",
     "passport": "^0.7.0",
     "passport-facebook": "^3.0.0",
     "python": "^0.0.4",
