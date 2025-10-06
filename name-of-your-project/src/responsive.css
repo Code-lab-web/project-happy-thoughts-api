@@ -1,0 +1,25 @@
+/* Base styles for mobile (320px and up) */
+body {
+  font-size: 16px;
+}
+
+/* Tablet styles (768px and up) */
+@media (min-width: 768px) {
+  body {
+    font-size: 18px;
+  }
+}
+
+/* Desktop styles (1024px and up) */
+@media (min-width: 1024px) {
+  body {
+    font-size: 20px;
+  }
+}
+
+/* Large desktop styles (1600px and up) */
+@media (min-width: 1600px) {
+  #root {
+    max-width: 1400px;
+  }
+}
